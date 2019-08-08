@@ -1,0 +1,2 @@
+data time serie 
+LSTM,CNN
